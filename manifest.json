@@ -1,0 +1,22 @@
+{
+  "name": "Budget Ménage 2026",
+  "short_name": "Budget",
+  "description": "Suivi des dépenses ménagères en Rs et €",
+  "start_url": "./Budget menage 2026.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0A0E1A",
+  "theme_color": "#0A0E1A",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
